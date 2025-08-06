@@ -1,0 +1,50 @@
+﻿Name,Stress Type,Symptoms,Recommended Agrochemicals
+Brown Planthopper (BPH),Insects_Pests,"Hopperburn, stunted growth, wilting.","Imidacloprid (0.4 ml/L of water) [17.8% a.i.]
+Thiamethoxam (0.4 g/L of water) [25% a.i.]
+Dinotefuran (0.2 g/L of water) [20% a.i.]
+Buprofezin (1.25 ml/L of water) [25% a.i.]"
+Rice Stem Borer,Insects_Pests,"Dead hearts in young plants, whiteheads in mature plants.","Chlorantraniliprole (0.4 ml/L of water) [18.5% a.i.]
+Flubendiamide (0.1 g/L of water) [20% a.i.]
+Fipronil (2 ml/L of water) [5% a.i.]
+Cartap Hydrochloride (1 g/L of water) [50% a.i.]"
+Leaf Folder,Insects_Pests,"Leaves folded and webbed together, feeding on leaf tissue.","Chlorantraniliprole (0.4 ml/L of water) [18.5% a.i.]
+Flubendiamide (0.1 g/L of water) [20% a.i.]
+Lambda-cyhalothrin 5 ec  (0.5 ml/L of water) [5% a.i.]
+Spinosad (0.25 ml/L of water) [45% a.i.]"
+Green Leafhopper,Insects_Pests,Yellowing and stunting of plants.,"Imidacloprid (0.2 ml/L of water) [20% a.i.]
+Thiamethoxam (0.2 g/L of water) [25% a.i.]
+Acephate (1 g/L of water) [75% a.i.]"
+Rice Hispa,Insects_Pests,"Scraping of leaf surface, white streaks on leaves.","Chlorpyrifos (2.5 ml/L of water) [20% a.i.]
+Lambda-cyhalothrin (0.3 ml/L of water) [5% a.i.]"
+Gall Midge,Insects_Pests,Formation of silvery white leaf galls (onion leaf).,"Fipronil (2 ml/L of water) [5% a.i.]
+Imidacloprid (0.4 ml/L of water) [17.8% a.i.]"
+Rice Blast,Diesease,"Diamond-shaped lesions on leaves, neck rot.","Tricyclazole (0.6 g/L of water) [75% a.i.]
+Isoprothiolane (1 ml/L of water) [40% a.i.]
+Azoxystrobin (0.5 ml/L of water) [23% a.i.]
+Hexaconazole (1 ml/L of water) [5% a.i.]"
+Sheath Blight,Diesease,"Irregular, elliptical lesions on leaf sheath, wilting.","Validamycin (2 g/L of water) [3% a.i.]
+Propiconazole (1 ml/L of water) [25% a.i.]
+Hexaconazole (1 ml/L of water) [5% a.i.]
+Azoxystrobin (0.5 ml/L of water) [23% a.i.]"
+Bacterial Leaf Blight (BLB),Diesease,"Yellowing and drying of leaf tips, bacterial ooze.","Copper hydroxide (2 g/L of water) [77% a.i.]
+Streptomycin sulphate + Tetracycline hydrochloride (200 ppm) [90% a.i. combined]
+Plant activators like BTH (Benzothiadiazole) (0.1 g/L of water) [50% a.i.]"
+False Smut,Diesease,"Greenish spore balls on grains, stunted growth.","Carbendazim (1 g/L of water) [50% a.i.]
+Propiconazole (1 ml/L of water) [25% a.i.]
+Hexaconazole (1 ml/L of water) [5% a.i.]
+Azoxystrobin (0.5 ml/L of water) [23% a.i.]"
+Tungro Virus,Diesease,"Stunted growth, yellow to orange discoloration.","Vector control with Imidacloprid (0.2 ml/L of water) [20% a.i.]
+Thiamethoxam (0.2 g/L of water) [25% a.i.]"
+Bakanae Disease,Diesease,"Abnormal elongation, yellowing, and wilting.","Prochloraz (1 ml/L of water) [45% a.i.]
+Carbendazim (1 g/L of water) [50% a.i.]
+Thiophanate-methyl (1 g/L of water) [70% a.i.]"
+Rice Sheath Rot,Diesease,Rotting and discoloration of the leaf sheath.,"Carbendazim (1 g/L of water) [50% a.i.]
+Thiophanate-methyl (1 g/L of water) [70% a.i.]"
+Root Knot Nematode,Netmatodes_worms,"Galls on roots, stunted growth.","Carbofuran (apply at 1 kg a.i./ha) [3% a.i.]
+Fipronil (0.3 ml/L of water) [5% a.i.]"
+White Tip Nematode,Netmatodes_worms,"White tips on leaves, twisting and curling.","Carbofuran (apply at 1 kg a.i./ha) [3% a.i.]
+Fenamiphos (2 kg a.i./ha) [10% a.i.]"
+Rodents,Roddent,Damage to grains and seedlings.,"Zinc phosphide (bait application) [2% a.i.]
+Bromadiolone (bait application) [0.005% a.i.]"
+Weeds,Weed,"Competition for nutrients, water, and light.","Pre-emergence: Butachlor (1.5 kg a.i./ha) [50% a.i.]
+Post-emergence: Bispyribac sodium (25 g a.i./ha) [10% a.i.]"
