@@ -541,7 +541,7 @@ private fun IntroText() {
     )
 
   val introText = buildAnnotatedString {
-    append("Farm Wise is your AI-powered assistant for agriculture and allied livelihoods.")
+    append("Empowering farmers, enriching lives—AI at your field’s side.")
   }
   Text(
     introText,

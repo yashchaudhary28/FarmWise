@@ -31,7 +31,7 @@ import androidx.compose.material.icons.outlined.ImageSearch
 /** Type of task. */
 enum class TaskType(val label: String, val id: String) {
   LLM_CHAT(label = "Agri Guide", id = "llm_chat"),
-  LLM_PROMPT_LAB(label = "Plant Doctor", id = "llm_prompt_lab"),
+  LLM_PROMPT_LAB(label = "Plant Doctor", id = "llm_ask_image"),
   LLM_ASK_IMAGE(label = "Farm Adviser", id = "llm_ask_image"),
   LLM_ASK_AUDIO(label = "Farm Adviser", id = "llm_ask_audio"),
   TEST_TASK_1(label = "Test task 1", id = "test_task_1"),
@@ -89,7 +89,7 @@ val TASK_LLM_PROMPT_LAB =
     type = TaskType.LLM_PROMPT_LAB,
     icon = Icons.Outlined.Science,
     models = mutableListOf(),
-    description = "Single turn use cases with on-device large language models",
+    description = "Ask questions about images with on-device large language models",
     docUrl = "https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/android",
     sourceCodeUrl =
       "https://github.com/google-ai-edge/gallery/blob/main/Android/src/app/src/main/java/com/google/ai/edge/gallery/ui/llmchat/LlmChatModelHelper.kt",
