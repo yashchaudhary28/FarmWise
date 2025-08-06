@@ -16,9 +16,9 @@
 
 <resources>
     <!-- TODO(jingjin): Add translation support when i18n is ready. -->
-    <string name="app_name" translatable="false">Google AI Edge Gallery</string>
-    <string name="app_name_first_part" translatable="false">Google AI</string>
-    <string name="app_name_second_part" translatable="false">Edge Gallery</string>
+    <string name="app_name" translatable="false">FarmWise</string>
+    <string name="app_name_first_part" translatable="false">Farm</string>
+    <string name="app_name_second_part" translatable="false">Wise</string>
     <string name="app_intro" translatable="false">Explore a world of amazing on-device models from</string>
     <string name="best_overall" translatable="false">Best overall</string>
     <plurals name="model_list_number_of_models_available" translatable="false">
@@ -54,7 +54,7 @@
     <string name="text_input_placeholder_text_classification" translatable="false">Type movie review to classify…</string>
     <string name="text_image_generation_text_field_placeholder" translatable="false">Type prompt…</string>
     <string name="text_input_placeholder_llm_chat" translatable="false">Type prompt…</string>
-    <string name="tos_dialog_title_app_name" translatable="false">Google AI Edge Gallery App</string>
+    <string name="tos_dialog_title_app_name" translatable="false">FarmWise App</string>
     <string name="tos_dialog_title_tos" translatable="false">Terms of Service</string>
     <string name="tos_dialog_view_full_tos" translatable="false">View this app\'s Terms of Service</string>
     <string name="tos_dialog_view_accept_button_label" translatable="false">Accept and Continue</string>
@@ -63,5 +63,4 @@
     <string name="benchmark" translatable="false">Run benchmark</string>
     <string name="warming_up" translatable="false">warming up…</string>
     <string name="running" translatable="false">running</string>
-    <string name="gram_mitra_app_name">Gram-Mitra</string>
 </resources>

@@ -130,7 +130,7 @@ private const val CONTENT_COMPOSABLES_OFFSET_Y = 16
 
 /** Navigation destination data */
 object HomeScreenDestination {
-  @StringRes val titleRes = R.string.gram_mitra_app_name
+  @StringRes val titleRes = R.string.app_name
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -229,7 +229,7 @@ fun HomeScreen(
             CenterAlignedTopAppBar(
               title = {
                 Text(
-                  text = stringResource(R.string.gram_mitra_app_name),
+                  text = stringResource(R.string.app_name),
                   style = MaterialTheme.typography.titleLarge,
                   color = MaterialTheme.colorScheme.onPrimaryContainer,
                 )
@@ -401,8 +401,8 @@ fun HomeScreen(
 
 @Composable
 private fun AppTitle() {
-  val firstLineText = "Gram-Mitra"
-  val secondLineText = "AI Assistant for Agriculture"
+  val firstLineText = "Farm Wise"
+  val secondLineText = "Pocket-sized AI Agronomist"
   val titleColor = MaterialTheme.customColors.appTitleGradientColors.getOrElse(1) { MaterialTheme.colorScheme.primary }
 
   Box {
@@ -541,23 +541,7 @@ private fun IntroText() {
     )
 
   val introText = buildAnnotatedString {
-    append("Gram-Mitra is your AI-powered assistant for agriculture and allied livelihoods. Learn more at ")
-    withLink(
-      link =
-        LinkAnnotation.Url(
-          url = url,
-          styles =
-            TextLinkStyles(
-              style = SpanStyle(color = linkColor, textDecoration = TextDecoration.Underline)
-            ),
-          linkInteractionListener = { _ ->
-            firebaseAnalytics?.logEvent("resource_link_click", bundleOf("link_destination" to url))
-            uriHandler.openUri(url)
-          },
-        )
-    ) {
-      append("Gram-Mitra Community")
-    }
+    append("Farm Wise is your AI-powered assistant for agriculture and allied livelihoods.")
   }
   Text(
     introText,
